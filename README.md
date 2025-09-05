@@ -1,1 +1,1 @@
-# SuperBowl_Prediction_Project
+# Super-Bowl Prediction Project
